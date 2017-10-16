@@ -2,7 +2,7 @@
 ## Projecte inicial
 
 En aquest arxiu hi ha una petita mostra de com usar **Markdown**, que permet marcar de manera fàcil certes opcións de format:
-* **negreta** i *cursiva*, [links](http://google.com) ...
+* **negreta** i *cursiva*, [links](https://rawgit.com/) ...
 * Llistes
   - [x] amb subllistes
   - [x] o checkbox
