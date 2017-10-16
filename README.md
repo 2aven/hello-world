@@ -41,11 +41,11 @@ Aquest arxiu de presentació és una petita mostra de com usar el format **Markd
   > -Albert Eintein, dinant en família.
 * Format per mostrar còdi
   - que pot mostrar colors per resaltar la sintàxis:
-```javascript
-if (isAwesome){
-  return true
-}
-```
+  ```javascript
+  if (isAwesome){
+    return true
+  }
+  ```
 * I altres opcións com usar etiquetes de referència per links o imàtges, inclourer emojis, etc...
 
 [Screen_RTF]: https://github.com/2aven/hello-world/blob/master/Captura%20de%20pantalla%20de%202017-10-16%2010-43-40.png
