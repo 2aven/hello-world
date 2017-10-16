@@ -26,7 +26,7 @@ S'ha inclòs la direcció de la [pagina.html](https://github.com/2aven/hello-wor
 ![Comprovació RAWGIT][Screen_RawGit]
 
 #### D) Edició del README.md
-Aquest arxiu de presentació és una petita mostra de com usar el format **Markdown**, que permet marcar de manera fàcil certes opcións de format:
+Aquest arxiu de presentació és una petita mostra de com usar el format **Markdown**, que permet marcar de manera fàcil certes opcións de format, com ja s'han anat mostrant:
 
 * Énfasis: **negreta** i *cursiva*.
 * [links](https://rawgit.com/) ...
@@ -37,7 +37,6 @@ Aquest arxiu de presentació és una petita mostra de com usar el format **Markd
 * Imatges
 * Tamanys de papçalera o textos citats
   > Perfavor, m'acostes la sal?
-  >
   > -Albert Eintein, dinant en família.
 * Format per mostrar còdi
   - que pot mostrar colors per resaltar la sintàxis:
@@ -46,7 +45,7 @@ Aquest arxiu de presentació és una petita mostra de com usar el format **Markd
     return true
   }
   ```
-* I altres opcións com usar etiquetes de referència per links o imàtges, inclourer emojis, etc...
+* I altres opcións com usar etiquetes de referència per links o imàtges, inclourer emojis, etc...  
 
 [Screen_RTF]: https://github.com/2aven/hello-world/blob/master/Captura%20de%20pantalla%20de%202017-10-16%2010-43-40.png
 [Screen_HTML]: https://github.com/2aven/hello-world/blob/master/Captura%20de%20pantalla%20de%202017-10-16%2012-29-04.png
